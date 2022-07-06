@@ -7,6 +7,10 @@ public class p_1 {
         System.out.println("Merhaba" );
         System.out.println("nasılsın hüseyin şirikçi");
 
+        System.out.println("yeni 1");
+
+
+
 
     }
 }
